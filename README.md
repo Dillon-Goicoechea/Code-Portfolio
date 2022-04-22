@@ -17,3 +17,5 @@ dlinkedlist.cpp:C++, creation of non-library double linked list for data structu
 vsarray.cpp:C++,  creation of non-library variable size array for data structures assignment.
 
 src folder: Vue.js calculator
+
+Main.js: code from Javascript dynamic web page project
