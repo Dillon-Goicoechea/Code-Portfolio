@@ -19,3 +19,5 @@ vsarray.cpp:C++,  creation of non-library variable size array for data structure
 src folder: Vue.js calculator
 
 Main.js: code from Javascript dynamic web page project
+
+Main.rs, Readme Rust Compiler, and Test0.sc: Basic Lexer and Parser made in Rust that transforms input from basic programming language and outputs the code in Scheme or Prolog
