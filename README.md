@@ -1,23 +1,16 @@
 # Code-Portfolio
-This is a general code portfolio used for application purposes. All of the code has been written for school projects, school group projects, and general personal use
+Hi! My name is Dillon Goicoechea, and this is my code portfolio!
+I am a third-year Honors Computer Science and Engineering student at Seattle Pacific University.
 
-EmployeeData.cpp: C++ file used in project where it created and output reports based on user menu request from data provided by readCSV.cpp.
+This code is a mix of personal projects I did in my free time and academic projects I was very passionate about!
 
-readCSV.cpp: C++ file that read data from file speciffied by user with specific format, but that was due to project grading requirements.
+The src folder is a calculator web application mad with Vue.js . This was my fist framework application with JavaScript, and it was a fun learning experience. It was much different than using node.js and JavaScript without a framework!
 
+Main.js is a dynamic web-page I programmed while refreshing on JavaScript before taking Net-centric computing! It is very simple, but a fun refresher.
 
-RecursionExcersises.cpp: C++, project assignment where I needed to create recursive functions to solve specific problems.
+EmployeeData.cpp and dlinkedlist.cpp are C++ code from my Data Structures courses creating a Double Linked List class and using class objects to generate reports!
 
-Person.cpp: C++, Base class created in inheritance project. Is the parent class of Professor.cpp
+ReadCSV.CPP is a C++ program I developed for my Data Structures course to read data from a csv to a format easily used for creating class objects to generate data reports.
 
-Professor.cpp:C++, Child class of Person.cpp, made in inheritance project.
-
-dlinkedlist.cpp:C++, creation of non-library double linked list for data structures assignment. 
-
-vsarray.cpp:C++,  creation of non-library variable size array for data structures assignment.
-
-src folder: Vue.js calculator
-
-Main.js: code from Javascript dynamic web page project
-
-Main.rs, Readme Rust Compiler, and Test0.sc: Basic Lexer and Parser made in Rust that transforms input from basic programming language and outputs the code in Scheme or Prolog
+Now for my favorite assignment that falls into my passion of computer science: The Rust compiler, comprising of files Main.rs, Test0.sc, and Rust README if you want specific details of the rules of the assignment.
+I spent upwards of 30 hours on this assignment, designing, programming, redesigning, refactoring, and optimizing my code for this project. I study compiler design and engineering as a hobby, and this assignment brought out the love of the topic in me. This project is the reason I love Rust as a programming language, and I truly believe it is the new C++. I could drone on about this project, but I imagine you do not want that, but please contact me if you want to know more!
