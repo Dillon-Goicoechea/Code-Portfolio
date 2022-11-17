@@ -4,7 +4,7 @@ I am a third-year Honors Computer Science and Engineering student at Seattle Pac
 
 This code is a mix of personal projects I did in my free time and academic projects I was very passionate about!
 
-The src folder is a calculator web application mad with Vue.js . This was my fist framework application with JavaScript, and it was a fun learning experience. It was much different than using node.js and JavaScript without a framework!
+The src folder is a calculator web application mad with Vue.js . This was my first framework application with JavaScript, and it was a fun learning experience. It was much different than using node.js and JavaScript without a framework!
 
 Main.js is a dynamic web-page I programmed while refreshing on JavaScript before taking Net-centric computing! It is very simple, but a fun refresher.
 
